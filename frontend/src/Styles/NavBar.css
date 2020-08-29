@@ -1,0 +1,21 @@
+.logo {
+  margin-left: 60%;
+}
+
+.image {
+  height: 210%;
+  width: 210%;
+}
+
+.nav {
+  margin-left: auto;
+  padding-right: 100px;
+  font-weight: 400;
+  font-size: 12px;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.Navbar {
+  position: sticky;
+  box-shadow: 3px 3px 5px 1px rgba(0, 0, 0, 0.253);
+}
